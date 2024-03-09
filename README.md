@@ -17,8 +17,6 @@ After you cloned the project, just run main.py in your editor
 
 # Флексики и Нолики
 Учебный проект консольной игры в крестики и нолики с десятком эксцентричных персонажей.
-Советуется запускать в PyCharm (python ver 3.11)
-https://github.com/bioRival/FlexTacToe/
 
 ## Как установить?
 ### Что необходимо?
